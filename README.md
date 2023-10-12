@@ -17,7 +17,7 @@ Each day, I'll be sharing my daily progress. I'll post updates on what I've lear
 
 ## Why I'm Doing This?
 
-I believe that the best way to learn something is by Doing it. This challenge is not just about acquiring knowledge but also about building a solid foundation of practical skills. My hope is that this experience will not only transform me into a Machine Learning practitioner but also inspire and help fellow learners on their own journeys.
+I believe that the best way to learn something is by Doing it. This challenge is not just about acquiring knowledge but also about building a solid foundation of practical skills. My hope is that this experience will not only transform me into a Machine Learning practitioner but also open up new opportunities for my personal and professional growth.
 
 ## Stay Tuned....
 
