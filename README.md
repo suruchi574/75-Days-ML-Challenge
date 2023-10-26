@@ -1,5 +1,4 @@
-# 75 Days ML Challenge
-
+#75 Days Of ML Challenge
 ![ml](https://github.com/suruchi574/75-Days-ML-Challenge/assets/84992606/ee7000db-5dec-4a20-879f-5b67185205fc)
 
 
