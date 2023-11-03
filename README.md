@@ -11,7 +11,7 @@ Hey there! I'm a passionate Data Enthusiast eager to dive deep into the world of
 
 Over the course of 75 days, I'll be immersing myself in the world of Machine Learning. I will be diving into topics such as linear regression, classification, decision trees, neural networks, computer vision and everything in between. My goal is to gain a deep understanding of these algorithms and, most importantly, to apply them in real-world projects.
 
-## What to excpect?
+## What to excpect ?
 
 
 Each day, I'll be sharing my daily progress. I'll post updates on what I've learned and the projects I've been working on. Expect a mix of code, explanations, and maybe even a few "aha" moments. By following my journey, you can learn alongside me or offer your insights and feedback.
