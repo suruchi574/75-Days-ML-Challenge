@@ -3,7 +3,7 @@
 ![ml](https://github.com/suruchi574/75-Days-ML-Challenge/assets/84992606/ee7000db-5dec-4a20-879f-5b67185205fc)
 
 
-## Introduction
+## Introduction 
 
 Hey there! I'm a passionate Data Enthusiast eager to dive deep into the world of Machine Learning. This "75 Days ML Challenge" is an ambitious project where I commit to learning all the essential algorithms of Machine Learning and implementing them in a variety of captivating projects.
 
