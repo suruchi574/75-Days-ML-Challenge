@@ -16,7 +16,7 @@ Over the course of 75 days, I'll be immersing myself in the world of Machine Lea
 
 Each day, I'll be sharing my daily progress. I'll post updates on what I've learned and the projects I've been working on. Expect a mix of code, explanations, and maybe even a few "aha" moments. By following my journey, you can learn alongside me or offer your insights and feedback.
 
-## Why I'm Doing This?
+## Why I'm Doing This?    
 
 I believe that the best way to learn something is by Doing it. This challenge is not just about acquiring knowledge but also about building a solid foundation of practical skills. My hope is that this experience will not only transform me into a Machine Learning practitioner but also open up new opportunities for my personal and professional growth.
 
