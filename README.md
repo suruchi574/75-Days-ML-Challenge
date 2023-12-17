@@ -7,7 +7,7 @@
 
 Hey there! I'm a passionate Data Enthusiast eager to dive deep into the world of Machine Learning. This "75 Days ML Challenge" is an ambitious  project where I commit to learning all the essential algorithms of Machine Learning and implementing them in a variety of captivating projects.
 
-## What's the Challenge? 
+## What's the Challenge?  
 
 Over the course of 75 days, I'll be immersing myself in the world of Machine Learning. I will be diving into topics such as linear regression, classification, decision trees, neural networks, computer vision and everything in between. My goal is to gain a deep understanding of these algorithms and, most importantly, to apply them in real-world projects.
 
