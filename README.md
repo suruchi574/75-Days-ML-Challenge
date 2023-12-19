@@ -4,7 +4,7 @@
 
     
 ## Introduction.  
-
+    
 Hey there! I'm a passionate Data Enthusiast eager to dive deep into the world of Machine Learning. This "75 Days ML Challenge" is an ambitious  project where I commit to learning all the essential algorithms of Machine Learning and implementing them in a variety of captivating projects.
 
 ## What's the Challenge?  
